@@ -5,7 +5,8 @@
 - 📫 How to reach me - You can reach to me through -
 - Git Hub - https://github.com/mayur-tarwade
 - Linked in - https://www.linkedin.com/in/mayur-tarwade-aa272ab7?
-- Email - tarwade.mayur@gmail.com, tarwade.mayur@outlook.co
+- Email - tarwade.mayur@gmail.com, tarwade.mayur@outlook.com
+- Portfolio -https://mayur-tarwade.github.io/Portfolio_Website/
 
 <!---
 mayur-tarwade/mayur-tarwade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
