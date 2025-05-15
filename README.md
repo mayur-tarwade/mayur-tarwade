@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mayur Tarwade
 - 👀 I’m interested in Data Science and Data Visualization
-- 🌱 I’m currently learning Data Analysis
+- 🌱 I’m currently i am Business Analyst / Data Analyst.
 - 💞️ I’m looking to collaborate on Tablue and Power Bi for Data visualization 
 - 📫 How to reach me - You can reach to me through -
 - Git Hub - https://github.com/mayur-tarwade
