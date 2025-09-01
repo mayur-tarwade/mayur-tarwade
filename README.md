@@ -1,4 +1,4 @@
-Results-oriented Data Analyst transitioning from 5.5 years of engineering domain experience into the IT domain. 
+Results-oriented Data Analyst **transitioning from 5.5 years of engineering domain experience into the IT domain**. 
 Proficient in transforming raw data into actionable insights through Python, SQL, and data visualization tools such as Power BI, Tableau, and Excel. 
 Demonstrated success in compiling data-driven reports and crafting business presentations. 
 Strong communicator with proven collaboration across cross-functional teams. 
